@@ -5,6 +5,11 @@
 - 📫 メガネの忍者が走り出すトイトイランナー ボタンをタップで忍者を操作し、様々な障害物を避けて走り抜けろ！ アイテムを取得することで新しいアクションが、、、 忍者系アクションランゲーム
 - 😄 Ninja-style action running game
 - ⚡ Contact:toytoynjgame@gmail.com
+- プライバシーポリシー
+- 【利用者情報の取得】
+本アプリが利用者の個人情報を取得することはありません。
+【利用者の情報の利用】
+本アプリが利用者の個人情報を利用することはありません。
 
 <!---
 ToytoyCrew/ToytoyCrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
